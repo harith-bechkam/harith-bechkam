@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harith-bechkam
 - 👀 I’m interested in C,Java,Advanced Java-Sevlets,Web-container like Apache Tomcat etc..,JDBC,JSP 
-    Front-end:HTML5,CSS3,JAVASCRIPT(ES6 features)
+    Front-end:HTML5,CSS3,JAVASCRIPT(ES6 features)\n
     Frameworks-Angular 8,React JS
     Back-end:Node.js,Express,SDLC
     Databases:DBMS,MYSQL,MSSQL,postgres,MongoDB Atlas
