@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @harith-bechkam
-- 👀 I’m interested in C,Java,advanced java-sevlets,web container like Apache Tomcat,JDBC,JSP etc..,
-    Front-end:HTML5,CSS3,JAVASCRIPT
-    Frameworks-Angular 8
-    Back-end:DBMS,SQL,SDLC
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in C,Java,Advanced Java-Sevlets,Web-container like Apache Tomcat etc..,JDBC,JSP 
+    Front-end:HTML5,CSS3,JAVASCRIPT(ES6 features)
+    Frameworks-Angular 8,React JS
+    Back-end:Node.js,Express,SDLC
+    Databases:DBMS,MYSQL,MSSQL,postgres,MongoDB Atlas
+- 🌱 I’m currently learning MERN Stack Projects
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me https://www.linkedin.com/in/harith-anand/
 
