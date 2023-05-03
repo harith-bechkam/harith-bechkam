@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harith-bechkam
+- 👋 Hi, I’m @harith
 - 👀 I’m interested in C,Java,Advanced Java-Sevlets,Web-container like Apache Tomcat etc..,JDBC,JSP 
     Front-end:HTML5,CSS3,JAVASCRIPT(ES6 features)\n
     Frameworks-Angular 8,React JS
