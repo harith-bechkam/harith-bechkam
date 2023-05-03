@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @harith
+- 👋 Hi, I’m @Harith
 - 👀 I’m interested in C,Java,Advanced Java-Sevlets,Web-container like Apache Tomcat etc..,JDBC,JSP 
     Front-end:HTML5,CSS3,JAVASCRIPT(ES6 features)\n
     Frameworks-Angular 8,React JS
-    Back-end:Node.js,Express,SDLC
+    Back-end:![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] Node.js,Express,SDLC
     Databases:DBMS,MYSQL,MSSQL,postgres,MongoDB Atlas
 - 🌱 I’m currently learning MERN Stack Projects
 - 💞️ I’m looking to collaborate on Open Source Projects
