@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning MERN Stack Projects and Data Structures
 - 👯 Can generates impactful UI/UX with help of Figma.
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me https://www.linkedin.com/in/harith-anand/
+- 📫 How to reach me [https://www.linkedin.com/in/harith-anand/](https://www.linkedin.com/in/harithkv/)
 - 📫 My Portfolio https://harith-bechkam.netlify.com/
 <!---
 harith-bechkam/harith-bechkam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
