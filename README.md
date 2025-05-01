@@ -7,8 +7,7 @@
 
 ### I'm a Computer Science Enthusiast!!
 
-- 🌱 I’m currently learning MERN Stack Projects and Data Structures
-- 👯 Can generates impactful UI/UX with help of Figma.
+- 🌱 I’m currently Exploring Tech World
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me https://www.linkedin.com/in/harithkv
 - 📫 My Portfolio https://harith-bechkam.netlify.app
