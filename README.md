@@ -7,7 +7,7 @@
 -->
 <!-- I'm a Computer Science Enthusiast!! -->
 
-- 👀 Grinding Full Stack Dev & DSA<br>
+- 👀 Grinding Full Stack Dev, DSA, LLD & HLD<br>
 - 🌱 Exploring the tech world
 - 💞️ Open to Open Source collabs
 - 📫 Reach me here https://www.linkedin.com/in/harithkv
