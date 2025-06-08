@@ -7,10 +7,10 @@
 -->
 <!-- I'm a Computer Science Enthusiast!! -->
 
-- 👀 I’m interested in learning Full Stack Development and Data Structures and Algorithms<br>
-- 🌱 I’m currently Exploring Tech World
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me https://www.linkedin.com/in/harithkv
+- 👀 Grinding Full Stack Dev & DSA<br>
+- 🌱 Exploring the tech world
+- 💞️ Open to Open Source collabs
+- 📫 Reach me here https://www.linkedin.com/in/harithkv
 <!-- - 📫 My Portfolio https://harith-bechkam.netlify.app-->
 <!---
 harith-bechkam/harith-bechkam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
